@@ -1,0 +1,90 @@
+
+#allMeal{
+    text-align: center;
+    display: block;
+    float: center;
+    margin-top: 20px;
+    /* display: inline; */
+}
+#eachItem{
+    background-color: aqua;
+    margin: 10px;
+}
+img {
+    width:100px;
+}
+.vanish div {
+    display: none;
+}
+#noResult{
+    display: none;
+}
+#ingredients{
+    width: 40%;
+    text-align: left;
+    margin-left:30%;
+    margin-top: 50px;
+    /* text-align: center; */
+    /* margin-left: 30%; */
+
+    /* background-color: aqua; */
+}
+.hungryMonster{
+    /* background-color: aqua; */
+    margin: 0 auto;
+    text-align: center;
+    width: 60%;
+}
+img {
+    border-radius: 5px;
+    width: 200px;
+    text-align: center;
+}
+button{
+    background-color: rgb(255, 38, 0);
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.eachItem{
+    float: left;
+    margin: 5px;
+    background-color: coral;
+    border-radius: 5px;
+    width: 200px;
+}
+
+#ingredients div{
+    background-color: rgb(80, 200, 255);
+    /* width: 300px; */
+    margin: 5px;
+    padding: 5px;
+
+
+}
+h4{
+    margin-left: 10px;
+}
+
+#ingredients img{
+    align-items: center;
+    margin-left:90px;
+}
+#ingredients button{
+    margin:0 40%;
+}
+#ingredients ul{
+    margin-left: 10px;
+}
+input{
+    width: 300px;
+}
+h1{
+    background-color: coral;
+    border-radius: 5px;
+    padding: 5px;
+}
+h3{
+    text-align: center;
+    margin:0 15px;
+}
