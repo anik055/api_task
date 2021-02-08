@@ -3,13 +3,11 @@
     display: block;
     float: center;
     margin-top: 20px;
+    margin-left: 5%;
 }
 #eachItem{
     background-color: aqua;
     margin: 10px;
-}
-img {
-    width:100px;
 }
 .vanish div {
     display: none;
@@ -26,7 +24,7 @@ img {
 .hungryMonster{
     margin: 0 auto;
     text-align: center;
-    width: 60%;
+    width: 70%;
 }
 img {
     border-radius: 5px;
@@ -56,7 +54,9 @@ h4{
 }
 #ingredients img{
     align-items: center;
-    margin-left:90px;
+    margin-left:20%;
+    width: 200px;
+
 }
 #ingredients button{
     margin:0 40%;
